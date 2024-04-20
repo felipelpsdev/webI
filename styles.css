@@ -1,21 +1,53 @@
-body{
-    background-color: #dcd3ff;
+body {
+    background-color: #f5f5f5;
 }
-h1{
+
+h1 {
     color: green;
-    background-color: #ffefff;
+    background-color: darkgray;
     text-align: center;
+
 }
-p{
+h2{
+    background-color: darkgrey  ;
+    color: black;
+
+}
+.borda {
+    height: 250px;
+    border-style: outset;
+    border-width: thick;
+    border-color: blueviolet;
+}
+
+p {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
+
     text-align: justify;
 }
-ul{
+
+ul li {
     color: black;
     text-align: justify;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 16px;
+    background-color: antiquewhite;
+
+}
+
+ol li {
+
+    background-color: antiquewhite;
+    text-align: justify;
+}
+h3{
+    background-color: darkgray;
+    color: blue;
+}
+
+#Horario02{
+    background-color: #e8402d ;
+    text-align: center;
     
 }
